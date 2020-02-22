@@ -1,0 +1,7 @@
+name: ChatLogger
+version: ${project.version}
+main: me.artemis.chatlogger.ChatLogger
+api-version: 1.13
+authors: [Artemis]
+description: This plugin logs all player messages including commands.
+website: W1Z0.xyz
